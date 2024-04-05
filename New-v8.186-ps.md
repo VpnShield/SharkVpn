@@ -19,6 +19,6 @@
 "ShowTime": "9999999",
 "Button": " دانلود از تلگرام ",
 "ButtonCancell": " نمیخوام ",
-"Closure": "true",
+"Closure": "false",
 "Show": "on"
 }
