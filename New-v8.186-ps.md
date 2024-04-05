@@ -1,10 +1,10 @@
 {
-"Title": "🎉 سال نو مبارک 🎉",
-"Description": "به امید خدا تو این سال جدید به خواسته‌هات برسی و از ته دل شاد باشی 😍❤️\nاگر مشکلی با فیلترشکنت داری یا سوال داری عضو گروه رفع اشکال بشو ما کمکت میکنیم👇🏻",
-"Link": "tg://join?invite=wAFBEeBfVfQzZDc0",
+"Title": "❌  اطلاعیه  ❌",
+"Description": "این برنامه فعلا قطع میباشد : نسخه جدید این برنامه به نام Ultraunique Vpn رو میتونید دانلود و استفاده کنید 👇🏻",
+"Link": "https://telegram.me/VpnFile_Bot?start=dl_38256",
 "ColorWave": "#76FF03",
 "Color": "#76FF03",
-"ColorWaveTwo": "#00C853",
+"ColorWaveTwo": "#64DD17",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,10 +14,10 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
-"MessageID": "0193877766291000",
-"ShowTime": "3",
-"Button": " عضویت فوری ",
+"Cancellable": "false",
+"MessageID": "02984",
+"ShowTime": "2802039289",
+"Button": " دانلود از تلگرام ",
 "ButtonCancell": " نمیخوام ",
 "Closure": "true",
 "Show": "on"
