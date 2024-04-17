@@ -1,10 +1,10 @@
 {
-"Title": "❌  اطلاعیه  ❌",
-"Description": "این برنامه فعلا قطع میباشد : نسخه جدید این برنامه به نام Ultraunique Vpn رو میتونید دانلود و استفاده کنید 👇🏻",
-"Link": "https://telegram.me/VpnFile_Bot?start=dl_38256",
-"ColorWave": "#76FF03",
-"Color": "#76FF03",
-"ColorWaveTwo": "#64DD17",
+"Title": "❗️   اطلاعیه   ❗️",
+"Description": "کاربر عزیز ، شما داخل کانال تلگرام ما عضو نیستی ، فورا دکمه را عضویت لمس کن و عضو بشو ، در غیر این صورت فیلترشکن شما بزودی قطع میشه 🙏🏻",
+"Link": "tg://join?invite=FXfPNMXnFuU2ODdk",
+"ColorWave": "#00B0FF",
+"Color": "#00B0FF",
+"ColorWaveTwo": "#40C4FF",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "119294838",
-"ShowTime": "9999999",
-"Button": " دانلود از تلگرام ",
-"ButtonCancell": " نمیخوام ",
-"Closure": "false",
+"MessageID": "55668558",
+"ShowTime": "3",
+"Button": " ⏩  عضویت اجباری  ⏪ ",
+"ButtonCancell": "  ",
+"Closure": "true",
 "Show": "on"
 }
